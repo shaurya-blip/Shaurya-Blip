@@ -23,14 +23,9 @@
 
 - 🌱 I’m currently learning Tensorflow, Flask, Streamlit
 
-- 👯 I’m looking to collaborate on 
-
 - 💬 Talk to me about 
 
-## Stuff I worked on last week⌚
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@&compact=True"/>
-</a>
+
 
 ## My GitHub Stats 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -40,3 +35,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-blip&layout=compact" />
 </a>
 
+# sblip.dev
