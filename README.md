@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm sblip</h1>
+<h1 align="center">Hi 👋, I'm shaurya-blip</h1>
 <h3 align="center">A 12 year old passionate developer from India</h3>
 
 - 🔭 I’m currently working on [sBlip.dev](https://sblip.dev)
