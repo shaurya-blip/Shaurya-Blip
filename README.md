@@ -13,7 +13,9 @@
 
 - 📫 How to reach me **shaurya.p.singh21@gmail.com**
 
-- ⚡ Fun fact **I am a 12 year old**
+- ⚡ My best repo **shaurya-bllip/pyserved**
+
+- ⚡ Fun fact **I am a not a troll**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -37,3 +39,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaurya-blip&show_icons=true&locale=en&layout=compact" alt="shaurya-blip" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaurya-blip&show_icons=true&locale=en" alt="shaurya-blip" /></p>
+
