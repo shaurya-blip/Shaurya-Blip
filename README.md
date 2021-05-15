@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shaurya.p.singh21@gmail.com**
 
-- ⚡ My best repo **shaurya-blip/pyservedw**
+- ⚡ My best repo **shaurya-blip/pyserved**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
