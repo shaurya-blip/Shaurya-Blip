@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm shaurya-blip</h1>
 <h3 align="center">A 12 year old passionate developer from India</h3>
 
-- 🔭 I’m currently working on [sBlip.dev](https://sblip.dev)
+- 🔭 I’m currently working on [sblip.dev](https://sblip.dev)
 
 - 🌱 I’m currently learning **Machine learning in python**
 
@@ -13,9 +13,7 @@
 
 - 📫 How to reach me **shaurya.p.singh21@gmail.com**
 
-- ⚡ My best repo **shaurya-bllip/pyserved**
-
-- ⚡ Fun fact **I am a not a troll**
+- ⚡ My best repo **shaurya-blip/pyservedw**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
