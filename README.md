@@ -15,6 +15,9 @@
 
 - ⚡ My best repo **shaurya-blip/pyserved**
 
+- ⚡ Talk with me [here](https://discord.gg/HjNfRY7x)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Transferring Files Between Two Computers using pyServed](https://medium.com/coding-today/transferring-files-between-two-computers-using-pyserved-35623286604?source=rss-2b1acfd1060e------2)
