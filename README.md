@@ -23,6 +23,8 @@
 - [macOS Monterey: What’s new?](https://medium.com/geekculture/macos-monterey-whats-new-705edc62d546?source=rss-2b1acfd1060e------2)
 - [Transferring Files Between Two Computers using pyServed](https://medium.com/coding-today/transferring-files-between-two-computers-using-pyserved-35623286604?source=rss-2b1acfd1060e------2)
 - [Predicting house prices using Linear regression](https://medium.com/coding-today/predicting-house-prices-using-linear-regression-8f6de5ad85b5?source=rss-2b1acfd1060e------2)
+- [Brave VS Chrome](https://medium.com/nerd-for-tech/brave-vs-chrome-306e1451a401?source=rss-2b1acfd1060e------2)
+- [Interesting Ideas and Projects with Python](https://medium.com/coding-today/interesting-ideas-and-projects-with-python-1dc79698c5a5?source=rss-2b1acfd1060e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
