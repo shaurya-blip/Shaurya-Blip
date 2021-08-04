@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working on [sblip.dev](https://sblip.dev)
 
-- 🌱 I’m currently learning **Networking**
+- 🌱 I’m currently learning **Deep Reinforcement Learning in Python**
 
 - 👨‍💻 All of my projects are available at [https://sblip.dev](https://sblip.dev)
 
-- 📝 I regularly write articles on [https://sblip.medium.com](https://blog.sblip.dev)
+- 📝 I regularly write articles on [https://blog.sblip.dev](https://blog.sblip.dev)
 
 - 💬 Ask me about **Anything related to python**
 
-- 📫 How to reach me **shaurya.p.singh21@gmail.com**
-
-- ⚡ My best repo **shaurya-blip/pyserved**
+- ⚡ My best repo **shaurya-blip/MuchScript**
 
 - ⚡ Talk with me [here](https://discord.gg/HjNfRY7x)
 
