@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sblip</h1>
-<h3 align="center">A 13 year old passionate developer who loves talking with computers and watch star wars in his free time</h3>
+<h3 align="center">A 13 year old passionate developer who loves talking to computers</h3>
 
 - 🔭 I’m currently working on [sblip.dev](https://sblip.dev)
 
