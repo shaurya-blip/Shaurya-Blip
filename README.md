@@ -48,5 +48,5 @@
     
   </tr>
 </table>
-<img src="https://activity-graph.herokuapp.com/graph?username=sblip&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=sblip&theme=react-dark&area=true&hide_border=true" width="100%" align="right"> -->
     
