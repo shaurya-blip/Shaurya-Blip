@@ -4,7 +4,7 @@
 <table>
   <tr>
     <th width="50%">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYQfGSiphBvtVr3bvomAfisSFodPsw_rYPyQ&usqp=CAU"> 
+      <img src="https://avatars.githubusercontent.com/u/65819451?v=4"> 
     </th>
     <th>
       <h3>I am a 13 year old who's good in coding.</h3>
