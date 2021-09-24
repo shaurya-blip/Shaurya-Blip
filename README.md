@@ -8,7 +8,7 @@
     </th>
     <th>
       <h3>I am a 13 year old who's good in coding.</h3>
-      🔭 "I’m making the dremo app, its like discord+reddit merged together"<br><br>
+      🔭 I’m making the dremo app, its like discord+reddit merged together<br><br>
       💬 Ask me about Web development with python and PostgreSQL<br><br>
       ⚡ Fun fact: I am not a dumb kid who uses scratch and says he knows coding. :)
     </th>
