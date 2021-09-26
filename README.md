@@ -1,5 +1,5 @@
-<h1> Hi I am Shaurya 👋</h1>
-<img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
+<h1 align="center"> Hi I am Shaurya 👋</h1>
+<img align="center" src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 
 <table>
   <tr>
@@ -10,7 +10,7 @@
       <h3>I am a 13 year old who's good in coding.</h3>
       🔭 I’m making the dremo app, its like discord+reddit merged together<br><br>
       💬 Ask me about Web development with python and PostgreSQL<br><br>
-      ⚡ Fun fact: I am not a dumb kid who uses scratch and says he knows coding. :)
+      ⚡ Fun fact: I like star wars (not the sequels. for me star wars is just the original and prequel movies, along with the clone wars :))
     </th>
   </tr>
   <tr>
@@ -20,7 +20,7 @@
     <th>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-blip&theme=dark">
     </th>
-  </tr>
+  </tr> align="center"
   </table>
   <table>
   <tr>   
