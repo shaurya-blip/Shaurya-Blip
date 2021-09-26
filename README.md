@@ -1,5 +1,5 @@
 <h1 align="center"> Hi I am Shaurya 👋</h1>
-<img align="center" src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
+<img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 
 <table>
   <tr>
