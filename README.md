@@ -10,7 +10,7 @@
       <h3>I am a 13 year old who's good in coding.</h3>
       🔭 I’m making the dremo app, its like discord+reddit merged together<br><br>
       💬 Ask me about Web development with python and PostgreSQL<br><br>
-      ⚡ Fun fact: I like star wars (not the sequels. for me star wars is just the original and prequel movies, along with the clone wars :))
+      ⚡ Fun fact: I like star wars (not the sequels.)
     </th>
   </tr>
   <tr>
