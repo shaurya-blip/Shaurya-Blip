@@ -7,7 +7,7 @@
       <img src="https://avatars.githubusercontent.com/u/65819451?v=4"> 
     </th>
     <th>
-      <h3>I am a 13 year old who's good in coding.</h3>
+      <h3>I am a 13 year old who's boss in coding.</h3>
       🔭 I’m making the dremo app, its like discord+reddit merged together<br><br>
       💬 Ask me about Web development with python and PostgreSQL<br><br>
       ⚡ Fun fact: I like star wars (not the sequels.)
