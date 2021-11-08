@@ -1,6 +1,6 @@
 <h1 align="center"> Hi I am SblipDev 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
-
+<!-- Update -->
 <table>
   <tr>
     <th width="50%">
