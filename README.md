@@ -1,4 +1,4 @@
-<h1> Hi I am SblipDev 👋</h1>
+<h1 align="center"> Hi I am SblipDev 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 
 <table>
@@ -20,7 +20,7 @@
     <th>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-blip&theme=dark">
     </th>
-  </tr> align="center"
+  </tr> 
   </table>
   <table>
   <tr>   
