@@ -1,27 +1,7 @@
 <h1 align="center"> Hi I am SblipDev 👋</h1>
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 <!-- Update -->
-<table>
-  <tr>
-    <th width="50%">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRofpSmaSiIqFIH4iEMi6AVSl7WaYM4qsEE7g&usqp=CAU"> 
-    </th>
-    <th>
-      <h3>I like coding.</h3>
-      🔭 I am making a python package called tuesday. A monday.com python client.<br><br>
-      💬 Ask me about Web development with python and PostgreSQL<br><br>
-      ⚡ Fun fact: I like star wars (not the sequels.)
-    </th>
-  </tr>
-  <tr>
-    <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaurya-blip&show_icons=true&theme=gotham" alt="github stats"/>
-    </th>
-    <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-blip&theme=dark">
-    </th>
-  </tr> 
-  </table>
+
   <table>
   <tr>   
     <th width="40%">
