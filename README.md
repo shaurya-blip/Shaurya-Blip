@@ -7,6 +7,9 @@ Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, Post
 Github -> https://github.com/shaurya-blip<br>
 Blog -> https://blog.sblip.dev<br>
 Site -> https://sblip.dev
+<img src="https://activity-graph.herokuapp.com/graph?username=alvinbengeorge&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
+    
+    
 <table>
   <tr>
     <th>
