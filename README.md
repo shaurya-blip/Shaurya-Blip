@@ -9,7 +9,7 @@ Blog -> https://blog.sblip.dev<br>
 Site -> https://sblip.dev
 <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
     
-    
+<br><br>
 <table>
   <tr>
     <th>
