@@ -1,5 +1,5 @@
 <h1 align="center"> Hi I am SblipDev 👋</h1>
-<h3 align="center">Happy New Year in advance!</h3>
+<h3 align="center">Happy New Year!</h3>
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 <!-- Update -->
 Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, PostgreSQL, and some things about machine learning. I have created MuchScript, PyServed, etc. I like coding, playing basketball, and playing video games(Favourite: Jedi Fallen Order). I write tech blogs on <a href="http://medium.com/">Medium</a> and I hope to start a youtube channel soon.<br><br>
