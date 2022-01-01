@@ -15,6 +15,11 @@ Site -> https://sblip.dev
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up Python in VSCode](https://python.plainenglish.io/how-to-get-started-with-python-and-vscode-652e40203d48?source=rss-2b1acfd1060e------2)
+- [macOS Monterey: What’s new?](https://medium.com/geekculture/macos-monterey-whats-new-705edc62d546?source=rss-2b1acfd1060e------2)
+- [Transferring Files Between Two Computers using pyServed](https://medium.com/coding-today/transferring-files-between-two-computers-using-pyserved-35623286604?source=rss-2b1acfd1060e------2)
+- [Predicting house prices using Linear regression](https://medium.com/coding-today/predicting-house-prices-using-linear-regression-8f6de5ad85b5?source=rss-2b1acfd1060e------2)
+- [Brave VS Chrome](https://medium.com/nerd-for-tech/brave-vs-chrome-306e1451a401?source=rss-2b1acfd1060e------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sblip.medium.com)
