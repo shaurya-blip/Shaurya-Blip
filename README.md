@@ -9,6 +9,17 @@ Blog -> https://blog.sblip.dev<br>
 MuchScript -> https://muchscript.sblip.dev<br>
 Dremo -> https://dremo.sblip.dev<br>
 Site -> https://sblip.dev
+
+<br>
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://sblip.medium.com)
+<br>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
     
 <br><br>
