@@ -10,8 +10,6 @@ MuchScript -> https://muchscript.sblip.dev<br>
 Dremo -> https://dremo.sblip.dev<br>
 Site -> https://sblip.dev
 
-<br>
-
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
