@@ -4,6 +4,8 @@
 <!-- Update -->
 Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, PostgreSQL, and some things about machine learning. I have created MuchScript, PyServed, etc. I like coding, playing basketball, and playing video games(Favourite: Jedi Fallen Order). I write tech blogs on <a href="http://medium.com/">Medium</a> and I hope to start a youtube channel soon.<br><br>
 
+Also the pronunciation of "SblipDev" is S - blip - dev
+
 Github -> https://github.com/shaurya-blip<br>
 Blog -> https://blog.sblip.dev<br>
 MuchScript -> https://muchscript.sblip.dev<br>
