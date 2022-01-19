@@ -7,8 +7,6 @@ Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, Post
 Also the pronunciation of "SblipDev" is S - blip - dev
 
 <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
-    
-<br><br>
 <table>
   <tr>
     <th>
@@ -60,5 +58,6 @@ Also the pronunciation of "SblipDev" is S - blip - dev
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://sblip.medium.com)
-<br>
-
+<br><br>
+<h3>My GitHub trophies</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=shaurya-blip&theme=onedark"><br><br>
