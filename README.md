@@ -6,12 +6,6 @@ Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, Post
 
 Also the pronunciation of "SblipDev" is S - blip - dev
 
-Github -> https://github.com/shaurya-blip<br>
-Blog -> https://blog.sblip.dev<br>
-MuchScript -> https://muchscript.sblip.dev<br>
-Dremo -> https://dremo.sblip.dev<br>
-Site -> https://sblip.dev
-
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
