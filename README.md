@@ -39,7 +39,7 @@ Also the pronunciation of "SblipDev" is S - blip - dev
       <img src="https://img.shields.io/badge/Intel-i5-00AADD?style=for-the-badge&logo=intel&logoColor=white">
       <img src="https://img.shields.io/badge/Intel-Iris%20Graphics-1188CC?style=for-the-badge&logo=intel&logoColor=white">
       <img src="https://img.shields.io/badge/2.6 GHz-0088CC?style=for-the-badge&logo=speed&logoColor=white">
-      <img src="https://img.shields.io/badge/RAM-16GB-0088CC?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/RAM-8GB-0088CC?style=for-the-badge&logoColor=white">
     </th>
       
     
