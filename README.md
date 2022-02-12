@@ -6,21 +6,22 @@ Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, Post
 
 Also the pronunciation of "SblipDev" is S - blip - dev
 
-<img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=react-dark&area=true&hide_border=true" width="100%" align="right">
+<img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=rogue&area=true&hide_border=true" width="100%" align="right"><br>
+<p></p>
 <table>
   <tr>
     <th>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaurya-blip&show_icons=true&theme=gotham" alt="github stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=shaurya-blip&show_icons=true&theme=dracula" alt="github stats"/>
     </th>
     <th>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-blip&theme=dark">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaurya-blip&theme=dracula">
     </th>
   </tr> 
   </table>
   <table>
   <tr>   
     <th width="40%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-blip&theme=dark">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaurya-blip&theme=dracula">
     </th>
     <th width="35%">
       <p>
@@ -37,7 +38,7 @@ Also the pronunciation of "SblipDev" is S - blip - dev
     <th>
       <img src="https://img.shields.io/badge/Mac Mini 2014-0B57A4?style=for-the-badge&logo=apple&logoColor=white">
       <img src="https://img.shields.io/badge/Intel-i5-00AADD?style=for-the-badge&logo=intel&logoColor=white">
-      <img src="https://img.shields.io/badge/Intel-Iris%20Graphics-1188CC?style=for-the-badge&logo=intel&logoColor=white">
+<!--       <img src="https://img.shields.io/badge/Intel-Iris%20Graphics-1188CC?style=for-the-badge&logo=intel&logoColor=white"> -->
       <img src="https://img.shields.io/badge/2.6 GHz-0088CC?style=for-the-badge&logo=speed&logoColor=white">
       <img src="https://img.shields.io/badge/RAM-8GB-0088CC?style=for-the-badge&logoColor=white">
     </th>
