@@ -1,4 +1,4 @@
-<h1 align="center"> Hi I am SblipDev 👋</h1>
+<h1 align="center"> Hi 👋</h1>
 <!-- <h3 align="center"></h3> -->
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 <!-- Update -->
