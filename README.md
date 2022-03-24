@@ -6,7 +6,9 @@ Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, Post
 
 Also the pronunciation of "SblipDev" is S - blip - dev
 
-<img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=rogue&area=true&hide_border=true" width="100%" align="right"><br>
+<!-- Commented due to down server of graph -->
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=rogue&area=true&hide_border=true" width="100%" align="right"><br> -->
+
 <p></p>
 <table>
   <tr>
