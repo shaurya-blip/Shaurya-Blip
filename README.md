@@ -29,7 +29,7 @@ Also the pronunciation of "SblipDev" is S - blip - dev
       <p>
         <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-yellow.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
-        <img alt="Vue" src="https://img.shields.io/badge/Vue-darkgreen.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
+        <img alt="Vue" src="https://img.shields.io/badge/Vue JS-darkgreen.svg?&style=for-the-badge&logo=vuejs&logoColor=white"/>
         <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
         <img alt="HTML" src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
         <img alt="CSS" src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
