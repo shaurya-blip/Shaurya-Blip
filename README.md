@@ -1,4 +1,4 @@
-![Alt Text](Sblipdev.gif)
+![Alt Text](Sblipdev%20(1).gif)
 
 <h1 align="center"> Hi 👋</h1>
 <!-- <h3 align="center"></h3> -->
