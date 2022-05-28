@@ -4,7 +4,7 @@
 <!-- <h3 align="center"></h3> -->
 <img src="https://komarev.com/ghpvc/?username=shaurya-blipe&label=Profile%20views&color=004488&style=flat">
 <!-- Update -->
-Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, PostgreSQL, and some things about machine learning. I have created MuchScript, PyServed, etc. I like coding, playing basketball, and playing video games(Favourite: Jedi Fallen Order). I write tech blogs on <a href="http://medium.com/">Medium</a> and I hope to start a youtube channel soon.<br><br>
+Hi, I am SblipDev. I know advanced coding in Python, Javascript, HTML, CSS, PostgreSQL, and some things about machine learning. I have created MuchScript, PyServed, etc. I like coding, playing basketball, and playing video games(Favourite: Jedi Fallen Order). I write blogs about blogs about software <br><br>
 
 Also the pronunciation of "SblipDev" is S - blip - dev
 
@@ -12,6 +12,11 @@ Also the pronunciation of "SblipDev" is S - blip - dev
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=rogue&area=true&hide_border=true" width="100%" align="right"><br> -->
 
 <p></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p></p>
+
 <table>
   <tr>
     <th>
@@ -47,8 +52,6 @@ Also the pronunciation of "SblipDev" is S - blip - dev
       <img src="https://img.shields.io/badge/RAM-16GB-0088CC?style=for-the-badge&logoColor=white">
       <img src="https://img.shields.io/badge/Manjaro GNOME-34be5b?style=for-the-badge&logo=manjaro&logoColor=white">
     </th>
-      
-    
   </tr>
 </table> 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=sblip&theme=react-dark&area=true&hide_border=true" width="100%" align="right"> -->
