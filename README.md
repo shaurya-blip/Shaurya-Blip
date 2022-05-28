@@ -13,7 +13,7 @@ Also the pronunciation of "SblipDev" is S - blip - dev
 
 <p></p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shaurya-blip&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p></p>
 
