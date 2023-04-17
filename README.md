@@ -12,11 +12,11 @@ Also the pronunciation of "SblipDev" is S - blip - dev
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=shaurya-blip&theme=rogue&area=true&hide_border=true" width="100%" align="right"><br> -->
 
 <p></p>
-
+<!-- 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shaurya-blip&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p></p>
-
+ -->
 <table>
   <tr>
     <th>
